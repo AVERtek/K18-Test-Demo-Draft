@@ -1,6 +1,6 @@
 # K18 HAIR FIBER JOURNEY! <!-- Loads <model-viewer> for old browsers like IE11: -->
 <p align="center">
-<img src="images/Dodgers 1.jfif" width=200>
+<img src="images/aquis logo-K18 a.png" width=200>
 </p>
 <h2 style="text-align: center;" markdown="1"> On Mobile: Press "AR" Button; To Video Press/Hold Camera Button; Then Share!</h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
@@ -83,7 +83,7 @@
    </script>
 
 
-<model-viewer src="Models/K18_TEST.glb?sound=Sound/Dodger stopDance.mp3" camera-controls camera-orbit="0deg 90deg 65%" autoplay animation-name="" id="reveal" id="model-viewer" loading="eager" ar ar-modes="scene-viewer webxr quick-look" ios-src="Models/DodgerGuy.reality" alt="K18 Fiber Journey" auto-rotate-delay="0" ar-scale="auto" camera-controls alt="New Template Design" style="width: 95%; height: 650px" ><button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer src="Models/K18_TEST.glb?sound=Sound/Dodger Dance.mp3" camera-controls camera-orbit="0deg 90deg 65%" autoplay animation-name="" id="reveal" id="model-viewer" loading="eager" ar ar-modes="scene-viewer webxr quick-look" ios-src="Models/DodgerGuy.reality" alt="K18 Fiber Journey" auto-rotate-delay="0" ar-scale="auto" camera-controls alt="K18-Test-Demo-Draft" style="width: 95%; height: 650px" ><button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
@@ -91,11 +91,11 @@
 <section class="attribution">
         <div>
           <span>
-            <h1 style="text-align: center;" markdown="1">Play Song</h1>
+            <h1 style="text-align: center;" markdown="1">Listen to Narration</h1>
               <p align="center">
               <span>
               <audio controls autoplay loop id="sound">
-                <source src="Sound/Dodger Dance_stop.mp3"/>
+                <source src="Sound/Dodger Dance.mp3"/>
               </audio
             ></span> 
              </p>
