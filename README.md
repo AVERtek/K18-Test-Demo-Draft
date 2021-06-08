@@ -1,2 +1,2 @@
-# K18-Test-Demo-Draft
-K18 Test Demo Draft Only
+# K18 Test Demo Draft
+3D & AR Hair Fiber Journey
