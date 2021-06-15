@@ -83,11 +83,8 @@
    </script>
 
 
-<<<<<<< HEAD
-<model-viewer src="Models/K18_TEST_3.glb?sound=Sound/Dodger Dance.mp3" camera-controls camera-orbit="180deg 90deg 65%" autoplay animation-name="" id="reveal" id="model-viewer" loading="eager" ar ar-modes="scene-viewer webxr quick-look" ios-src="Models/DodgerGuy.reality" alt="K18 Fiber Journey" auto-rotate-delay="0" ar-scale="auto" camera-controls alt="K18-Test-Demo-Draft" style="width: 95%; height: 650px" ><button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
-=======
 <model-viewer src="Models/K18_TEST_2.glb?sound=Sound/K18_Test_2_sound.mp3" camera-controls camera-orbit="0deg 90deg 65%" autoplay animation-name="" id="reveal" id="model-viewer" loading="eager" ar ar-modes="scene-viewer webxr quick-look" ios-src="Models/DodgerGuy.reality" alt="K18 Fiber Journey" auto-rotate-delay="0" ar-scale="auto" camera-controls alt="K18-Test-Demo-Draft" style="width: 95%; height: 650px" ><button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
->>>>>>> 6a52612303f7beb151a71fcbc899a8fb1fa03e14
+
       👋 AR Click Here
   </button>
 </model-viewer>
