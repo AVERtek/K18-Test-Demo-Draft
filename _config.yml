@@ -2,7 +2,7 @@
 logo1: "images/aquis logo-K18 a200.png? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h1 style="text-align: center;" markdown="1"><b>COMING SOON</h1></b></a> 
-  <h1 style="text-align: center;" markdown="1"></b><a href="https://contest.avertek.net/139549" onclick="getOutboundLink('https://contest.avertek.net/139549'); return false;"<b> ENTER HERE</h1></b></a> 
+  <h1 style="text-align: center;" markdown="1"></b><a href="https://www.k18hair.com/" onclick="getOutboundLink('https://www.k18hair.com/'); return false;"<b> SEE HOW IT WORKS</h1></b></a> 
   <br><br>
 theme: jekyll-theme-minimal
 # Google Analytics
