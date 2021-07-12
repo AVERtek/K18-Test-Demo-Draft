@@ -149,9 +149,8 @@ var getOutboundLink = function(url) {
 
   <!-- OPTIONAL: Include prismatic.js for Magic Leap support -->
   <!--<script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>-->
-  
----
- <br><br>
+
+<br><br>
 <h2 style="text-align: center;" markdown="1"><b>LEARN MORE:</b><a href="https://youtu.be/fZyuT3tbEGE" onclick="getOutboundLink('https://youtu.be/fZyuT3tbEGE'); return false;"<b> HERE</b></h2></a> 
 <br><br>
 <h2 style="text-align: center;" markdown="1"><b>UNDERSTANDING THE SCIENCE:</b><a href="https://www.k18hair.com/pages/our-science" onclick="getOutboundLink('https://www.k18hair.com/pages/our-science'); return false;"<b> CLICK HERE</b></h2></a> 
